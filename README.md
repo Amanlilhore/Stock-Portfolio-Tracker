@@ -1,1 +1,1 @@
-# CodeAlpha_TASK-2-Stock-Portfolio-Tracker
+Stock-Portfolio-Tracker
